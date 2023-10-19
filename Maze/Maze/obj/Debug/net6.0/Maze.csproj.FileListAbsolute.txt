@@ -1,0 +1,14 @@
+C:\Users\aboub\source\repos\Maze\Maze\bin\Debug\net6.0\Maze.exe
+C:\Users\aboub\source\repos\Maze\Maze\bin\Debug\net6.0\Maze.deps.json
+C:\Users\aboub\source\repos\Maze\Maze\bin\Debug\net6.0\Maze.runtimeconfig.json
+C:\Users\aboub\source\repos\Maze\Maze\bin\Debug\net6.0\Maze.dll
+C:\Users\aboub\source\repos\Maze\Maze\bin\Debug\net6.0\Maze.pdb
+C:\Users\aboub\source\repos\Maze\Maze\obj\Debug\net6.0\Maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aboub\source\repos\Maze\Maze\obj\Debug\net6.0\Maze.AssemblyInfoInputs.cache
+C:\Users\aboub\source\repos\Maze\Maze\obj\Debug\net6.0\Maze.AssemblyInfo.cs
+C:\Users\aboub\source\repos\Maze\Maze\obj\Debug\net6.0\Maze.csproj.CoreCompileInputs.cache
+C:\Users\aboub\source\repos\Maze\Maze\obj\Debug\net6.0\Maze.dll
+C:\Users\aboub\source\repos\Maze\Maze\obj\Debug\net6.0\refint\Maze.dll
+C:\Users\aboub\source\repos\Maze\Maze\obj\Debug\net6.0\Maze.pdb
+C:\Users\aboub\source\repos\Maze\Maze\obj\Debug\net6.0\Maze.genruntimeconfig.cache
+C:\Users\aboub\source\repos\Maze\Maze\obj\Debug\net6.0\ref\Maze.dll
